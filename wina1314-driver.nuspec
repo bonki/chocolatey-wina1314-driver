@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>wina1314-driver</id>
+    <version>1.1.10.0</version>
+    <packageSourceUrl>https://github.com/bonki/chocolatey-wina1314</packageSourceUrl>
+    <owners>bonki</owners>
+    <title>WinA1314</title>
+    <authors>George Samartzidis</authors>
+    <projectUrl>https://github.com/jsakamoto/WinA1314</projectUrl>
+    <!-- <iconUrl></iconUrl> -->
+    <copyright>2014 George Samartzidis</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<licenseUrl>https://github.com/jsakamoto/WinA1314/blob/master/LICENSE.md</licenseUrl>
+    <tags>bankid identification</tags>
+    <summary>WinA1314 is a kernel mode driver for the Apple Wireless Keyboard in Windows.</summary>
+    <description>WinA1314 is a kernel mode driver for the Apple Wireless Keyboard in Windows.</description>
+  </metadata>
+</package>
+
